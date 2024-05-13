@@ -1,3 +1,5 @@
+OK - Professor Parisotto
+
 # como vincular um repositório do GITHUB com o visual code 
 No github abra o repositório e clique no botão CODE -> Local -> copiar link do repositório
 No visual code abra a pasta de seus projetos (ex: Documentos/python/)
